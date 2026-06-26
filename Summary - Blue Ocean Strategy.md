@@ -1,6 +1,6 @@
-Book summary
+# Book summary
 
-# Part One: Blue Ocean Strategy
+## Part One: Blue Ocean Strategy
 
 The central throughline of Part One is the fundamental shift from competing in overcrowded, existing markets (Red Oceans) to systematically creating and capturing uncontested new market space (Blue Oceans) by breaking the value-cost trade-off through a concept called Value Innovation.
 
@@ -38,7 +38,7 @@ Here is how the main points flow together to build this strategic framework:
   - _Divergence_ proves the strategy is formed by looking across alternatives rather than reactively imitating competitors.
   - A _Compelling Tagline_ ensures the strategy translates into an authentic, clear message that is driven by the demand side (what buyers actually value) rather than internal operational jargon.
 
-# Part Two: Formulating Blue Ocean Strategy
+## Part Two: Formulating Blue Ocean Strategy
 
 The central throughline of Part Two is how to systematically **formulate a commercially viable blue ocean strategy by mitigating the four major risks** inherent in creating new markets: search, planning, scale, and business model risks.
 
@@ -72,7 +72,7 @@ Here is how these core formulation principles build on one another:
 **The Overall Throughline:**
 Part Two moves a company from the abstract to the concrete. It forces leaders to look _outside_ traditional borders to find a new idea (Search), visualize it clearly to avoid tactical traps (Planning), design it for the masses rather than a niche (Scale), and build a bulletproof economic engine to sustain it (Business Model). When these four formulation steps are complete, the organization is ready to transition to execution.
 
-# Part Three: Executing Blue Ocean Strategy
+## Part Three: Executing Blue Ocean Strategy
 
 The central throughline of Part Three is the transition from formulating a blue ocean strategy to **executing it, sustaining it, and institutionalizing it as a repeatable process**. A breakthrough strategy is useless if an organization cannot overcome the friction of human resistance, misaligned incentives, and eventual market imitation.
 
@@ -111,3 +111,73 @@ Here is how the main points build on each other to form this execution framework
 
 - **The Point/Throughline Anchor:** Throughout this entire execution and renewal process, managers must actively guard against deeply ingrained mental models that will pull them back into red ocean thinking.
 - **The Reasoning:** Misinterpreting blue ocean principles leads to flawed execution. Organizations must remember that blue ocean strategy is not about being "customer-led" (which causes firms to ignore the vast demand hidden in _noncustomers_), it is not synonymous with bleeding-edge technology (it relies on _value innovation_, making technology fade into the background), it is not about being first-to-market at the expense of value, and it is not purely about "creative destruction" or disruption (it relies heavily on _nondestructive creation_, redefining problems to unlock entirely new demand without necessarily destroying the old).
+
+# Example Roadmap
+
+Here is a practical, sequential roadmap for formulating and executing a Blue Ocean Strategy, synthesized directly from the frameworks and logic of the source material.
+
+This general-purpose roadmap follows the exact chronological progression of the book: from breaking existing mental models, to formulating the new strategy, validating its economics, and finally driving organizational execution.
+
+### Phase 1: Diagnosis & Discovery (Breaking the Status Quo)
+
+**Step 1: Visual Awakening (Map the Red Ocean)**
+
+- **Action:** Draw your "As Is" Strategy Canvas. Plot the current competing factors of your industry on the horizontal axis and the offering levels (high to low) of your company and your competitors on the vertical axis.
+- **Key Decision:** Acknowledge the need for change. Are you and your competitors marching in lockstep, fighting over the exact same factors?.
+- **Risks:** Relying on spreadsheets and numbers to argue for a strategic shift. Numbers are abstract and can be manipulated.
+- **Signal of Success:** Top management experiences a "wake-up call" by visually seeing that their strategy is unoriginal, lacks focus, and is caught in bloody competition.
+
+**Step 2: Visual Exploration (Reconstruct Market Boundaries)**
+
+- **Action:** Send managers into the field to observe how people use, or refuse to use, your products. Do not outsource this to market research.
+- **Key Decision:** Apply the **Six Paths Framework** to identify untapped market space. Look systematically across: 1) Alternative industries, 2) Strategic groups within industries, 3) The chain of buyers (users vs. purchasers), 4) Complementary products/services, 5) Functional/emotional appeals, and 6) Time trends.
+- **Prerequisite:** Shift your focus from _competitors_ to _alternatives_, and from _customers_ to _noncustomers_.
+
+### Phase 2: Strategy Formulation (Designing the Blue Ocean)
+
+**Step 3: Visual Strategy Fair (Draft the "To Be" Strategy)**
+
+- **Action:** Use the **Four Actions Framework** to break the value-cost trade-off. Ask four questions: What factors should be **Eliminated**, **Reduced** (to lower costs), **Raised**, and **Created** (to lift buyer value)?.
+- **Key Decision:** Draw multiple proposed "To Be" value curves and present them at a "Visual Strategy Fair" to a mix of external stakeholders, including existing customers, competitors' customers, and noncustomers.
+- **Signal of Doing it Right:** The winning value curve must exhibit three traits: **Focus** (you aren't investing in everything), **Divergence** (your curve looks entirely different from the industry average), and a **Compelling Tagline** (the strategy is easily communicable).
+
+**Step 4: Maximize the Size of the Blue Ocean**
+
+- **Action:** Aggregate massive new demand by targeting the **Three Tiers of Noncustomers**: 1) "Soon-to-be" noncustomers on the edge of your market, 2) "Refusing" noncustomers who consciously choose against your market, and 3) "Unexplored" noncustomers in distant markets.
+- **Key Decision:** Focus on the **commonalities** in what these noncustomers value, rather than pursuing finer segmentation and customization of existing customer differences.
+
+### Phase 3: Economic Validation (Building the Business Model)
+
+**Step 5: The Strategic Sequence (Pass the BOI Index)**
+
+- **Action:** Rigorously validate the idea through the Blue Ocean Idea (BOI) Index in this exact order: **Utility $\rightarrow$ Price $\rightarrow$ Cost $\rightarrow$ Adoption**. If the idea fails at any step, rethink it or park it.
+- **Check 1 - Exceptional Utility:** Map the idea on the _Buyer Utility Map_. Does it remove the greatest blocks to utility (e.g., risk, inconvenience, complexity) across the entire buyer experience cycle?.
+- **Check 2 - Strategic Pricing:** Use the _Price Corridor of the Target Mass_. Price against alternatives and substitutes, not just direct industry competitors, to ensure the mass of buyers has a compelling ability to pay.
+- **Check 3 - Target Costing:** Use _price-minus costing_, not cost-plus pricing. Deduct your desired profit margin from your strategic price. **Prerequisite:** Hit this aggressive target cost by streamlining operations and leveraging external partnerships.
+- **Risk:** Falling into the "technology trap." Bleeding-edge technology is not value innovation if it doesn't make buyers' lives fundamentally simpler or more productive.
+
+### Phase 4: Execution & Sustainability (Making it Happen)
+
+**Step 6: Overcome Key Organizational Hurdles**
+
+- **Action:** Use **Tipping Point Leadership** to execute the massive shift rapidly and at low cost by leveraging factors of _disproportionate influence_.
+- **The 4 Hurdles to Clear:**
+  - _Cognitive:_ Make superiors and staff experience the operational horrors firsthand (e.g., "ride the electric sewer" or meet disgruntled customers) rather than arguing with numbers.
+  - _Resource:_ Do not ask for more budget. Redirect existing resources from "cold spots" (high resource, low impact) to "hot spots" (low resource, high impact).
+  - _Motivational:_ Zoom in on "kingpins" (key influencers). Manage them in a transparent "fishbowl" and atomize the grand strategy into bite-sized, actionable goals.
+  - _Political:_ Appoint a "consigliere" (a respected insider to navigate politics), build coalitions with "angels" (those who benefit), and silence "devils" (those who lose).
+
+**Step 7: Build Execution into Strategy via Fair Process**
+
+- **Action:** Win the trust and voluntary cooperation of both internal employees and external partners by utilizing **Fair Process** (the 3 E's).
+- **The 3 E's Checklist:**
+  1.  _Engagement:_ Are you involving affected individuals in the decisions?.
+  2.  _Explanation:_ Does everyone understand the "why" behind the final strategy?.
+  3.  _Expectation Clarity:_ Are the new rules of the game, targets, and penalties explicitly stated?.
+- **Signal of Doing it Right:** Employees and partners exert energy beyond the call of duty because they feel intellectual and emotional recognition. **Signal of Wrong:** Foot-dragging, sabotage, or hoarding knowledge.
+
+**Step 8: Final Alignment & Dynamic Renewal**
+
+- **Action:** Ensure strict alignment across your **Value Proposition** (utility minus price), **Profit Proposition** (revenue minus cost), and **People Proposition** (motivations and incentives). **Key check:** All three must simultaneously pursue _both_ differentiation and low cost.
+- **Action:** Monitor your strategy using the **Pioneer-Migrator-Settler (PMS) Map**.
+- **Signal to Renew:** When you chart your value curve and see it beginning to converge with imitators, the ocean is turning red. Resist the urge to aggressively compete on marginal improvements. Instead, use the PMS map to balance your cash-generating "settlers" and begin the roadmap again to launch your next "pioneer" business.
